@@ -1,3 +1,5 @@
 # HimTrek- Landing Page
 A minimal landing page showcasing/advertising the HimTrek travel application. <br>
-Created using Nextjs (uses Typescript)
+Created using Nextjs (uses Typescript) 
+
+## [See Live](https://himtrekdemo.netlify.app/)
